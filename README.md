@@ -7,6 +7,12 @@
 
 [打开财神 App](https://jdb156158.github.io/GodOfWealthPointingAtYou/)
 
+## 效果预览
+
+| 聚财三消 | 每日财神签 | 财神庙（四阶） |
+| --- | --- | --- |
+| <img src="docs/screenshots/game-preview.png" alt="手机壳内的财宝三消页面，透明底金色网格与立体财宝" width="260"> | <img src="docs/screenshots/fortune-preview.png" alt="每日财神签抽签结果与解读" width="260"> | <img src="docs/screenshots/temple-preview.png" alt="四阶财神府建筑与升级进度" width="260"> |
+
 ## 本地运行
 
 在仓库目录执行：
