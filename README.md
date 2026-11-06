@@ -3,6 +3,10 @@
 
 手机壳展示的本地网页原型「你被财神点到了」。
 
+## 在线体验
+
+[打开财神 App](https://jdb156158.github.io/GodOfWealthPointingAtYou/)
+
 ## 本地运行
 
 在仓库目录执行：
@@ -29,4 +33,4 @@ python3 -m http.server 5173 --bind 127.0.0.1
 - `财神方向对比.html`、`财神方向对比.png`：最初的三个设计方向。
 - `directions.md`、`direction-approved.md`：方向说明及 A 方向选择记录。
 
-静态页面无需构建或后端。仓库不包含自动部署配置。
+静态页面无需构建或后端。GitHub Pages 从 `main` 分支根目录发布，后续推送自动更新。
